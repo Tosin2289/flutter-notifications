@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884683838835",
+    "project_id": "pushnotitutorial-8fade",
+    "storage_bucket": "pushnotitutorial-8fade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884683838835:android:c8a74394dd5b3fdb23a106",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7piDTpeSepA2xJsYB5daioZwu9_KPtDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
